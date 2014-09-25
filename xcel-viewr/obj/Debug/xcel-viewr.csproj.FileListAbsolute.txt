@@ -1,0 +1,6 @@
+D:\wspace\dev\xcel-viewr\xcel-viewr\bin\xcel-viewr.dll
+D:\wspace\dev\xcel-viewr\xcel-viewr\bin\xcel-viewr.pdb
+D:\wspace\dev\xcel-viewr\xcel-viewr\obj\Debug\ResolveAssemblyReference.cache
+D:\wspace\dev\xcel-viewr\xcel-viewr\obj\Debug\xcel-viewr.csproj.ResolveComReference.cache
+D:\wspace\dev\xcel-viewr\xcel-viewr\obj\Debug\xcel-viewr.dll
+D:\wspace\dev\xcel-viewr\xcel-viewr\obj\Debug\xcel-viewr.pdb
